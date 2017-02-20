@@ -1,0 +1,132 @@
+baseurl = "https://labsim.github.io/"
+canonifyurls = true
+title = "LABSIM"
+theme = "hugo-universal-theme"
+languageCode = "en-us"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+# Define the number of posts per page
+paginate = 10
+
+# use pygments color symthaxing
+pygmentsuseclasses = "false"
+pygmentsstyle = "monokai"
+
+[params]
+
+    viewMorePostLink = "/blog/"
+    author = "LABSIM"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "blue"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "labsim.onera@gmail.com"
+
+    about_us = "<p>LABSIM - ONERA. DCSD/PSEV.</p>"
+    copyright = "Copyright (c) 2015 - 2016, ONERA; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+    address = """<p><strong>LABSIM - ONERA</strong>
+        <br>BA 701
+        <br>FR-13661
+        <br>SALON CEDEX AIR
+        <br>
+        <strong>France</strong>
+      </p>
+      """
+    latitude = "43.618536"
+    longitude = "5.117996"
+
+[Permalinks]
+    blog = "/blog/:year/:month/day/:filename/"
+
+[[params.menu]]
+    name = "Docs"
+    url  = "http://bfy.tw/A84o"
+    weight = 1
+
+[[params.menu]]
+    name = "Team"
+    url  = "/team/"
+    weight = 2
+
+[[params.menu]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 3
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 4
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "How to ?"
+    subtitle = "Contributors, collaborators, scientifics or simply curious. We're happy to share."
+    link_url = "#"
+    link_text = "Check LABSIM docs homepages"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = ""

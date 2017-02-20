@@ -1,0 +1,4 @@
+weight: 1
+name: "Data-centric architecture"
+icon: "fa fa-cloud"
+description: "Data, data, data everywhere... We place them at the core of our simulation ecosystem trough an implementation of the DDS (Data Distribution Service), an ISO/IEC C++ 2003 standard."

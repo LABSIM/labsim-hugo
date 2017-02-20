@@ -1,0 +1,4 @@
+weight: 3
+name: "Rapid system prototyping"
+icon: "fa fa-cubes"
+description: "We allow system architect to quickly setup a simulation, orchestrate model execution & manage dataflow of a simulation without any specific knowledge."
