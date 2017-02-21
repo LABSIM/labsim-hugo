@@ -48,7 +48,7 @@ Our team is a composition of different scientific fields :
 
 | | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
+| ![roundbanner_200px](/img/banners/roundbanner-fcuzieux_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
 | ***Fabrice CUZIEUX***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Armin TAGHIZAD***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Piere-Marie BASSET***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Binh DANG-VU***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV |
 | ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) |
 | | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | |
