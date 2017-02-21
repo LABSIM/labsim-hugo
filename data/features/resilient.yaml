@@ -1,4 +1,4 @@
 weight: 4
 name: "Resilient"
 icon: "fa fa-copy"
-description: "A carrefully crafted mechanism of process isolation with RAM-hosted data-broker frontend enable crash recovery & hotplug of every involved simulation model in-line."
+description: "A carrefully crafted mechanism of process isolation with RAM-hosted data-broker frontend enables crash recovery & hotplug of every involved simulation model in-line."
