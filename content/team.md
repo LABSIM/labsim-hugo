@@ -18,7 +18,7 @@ Our team is a composition of different scientific fields :
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![roundbanner_200px](/img/banners/roundbanner-nkinani_200px.jpg) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
+| ![roundbanner_200px](/img/banners/roundbanner-cschulte_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![roundbanner_200px](/img/banners/roundbanner-nkinani_200px.jpg) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
 | ***Christian SCHULTE***<br>*in charge of the LABSIM - dev ops*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Nawfel KINANI***<br>*lead dev*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Gregory BONIN***<br>*hardware guru*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV |
 
 ![blank_50px](/img/banners/blank_50px.jpg)
