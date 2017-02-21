@@ -3,9 +3,10 @@ canonifyurls = true
 title = "LABSIM"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
+author = "LABSIM"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "labsim"
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -13,14 +14,9 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
-# use pygments color symthaxing
-pygmentsuseclasses = "false"
-pygmentsstyle = "monokai"
-
 [params]
 
     viewMorePostLink = "/blog/"
-    author = "LABSIM"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""

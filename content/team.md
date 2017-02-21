@@ -2,11 +2,11 @@
 title = "Team mate"
 +++
 
-![test](/img/banners/blank_50px.jpg)
+![blank_50px](/img/banners/blank_50px.jpg)
 
 Our team is a composition of different scientific fields :
 
-![test](/img/banners/blank_50px.jpg)
+![blank_50px](/img/banners/blank_50px.jpg)
 
 ---
 
@@ -14,16 +14,14 @@ Our team is a composition of different scientific fields :
 
 ---
 
+![blank_50px](/img/banners/blank_50px.jpg)
+
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| | | | | |
-| ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
+| ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![roundbanner_200px](/img/banners/roundbanner-nkinani_200px.jpg) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
+| ***Christian SCHULTE***<br>*In charge of the LABSIM - DevOps*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Nawfel KINANI***<br>*Lead dev*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Gregory BONIN***<br>*Hardware guru*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV |
 
-![test](/img/banners/blank_50px.jpg)
+![blank_50px](/img/banners/blank_50px.jpg)
 
 ---
 
@@ -31,16 +29,14 @@ Our team is a composition of different scientific fields :
 
 ---
 
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| | | | | |
-| ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
+![blank_50px](/img/banners/blank_50px.jpg)
 
-![test](/img/banners/blank_50px.jpg)
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
+| ***Jean-Christophe SARRAZIN***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Bruno BERBERIAN***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Patrick LE BLAYE***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Nicolas MAILLE***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV |
+
+![blank_50px](/img/banners/blank_50px.jpg)
 
 ---
 
@@ -48,14 +44,15 @@ Our team is a composition of different scientific fields :
 
 ---
 
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| | | | | |
-| ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) | | ![test](/img/banners/blank_50px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
-| ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) | ![test](/img/banners/blank_100px.jpg) | ![test](/img/banners/roundbanner-nkinani_200px.jpg) |
-| ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) | ***Nawfel KINANI*** - *Lead Dev* - [TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![test](/img/banners/blank_100px.jpg) |
+![blank_50px](/img/banners/blank_50px.jpg)
 
-![test](/img/banners/blank_50px.jpg)
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) |
+| ***Fabrice Cuzieux***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Armin TAGHIZAD***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Piere-Marie BASSET***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Binh DANG-VU***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV |
+| ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) | | ![blank_50px](/img/banners/blank_50px.jpg) |
+| | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | ![logo_200px](/logo/logo_200px.png) | ![blank_100px](/img/banners/blank_100px.jpg) | |
+| | ![blank_100px](/img/banners/blank_100px.jpg) | ***Laurent BINET***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | ***Thomas RAKOTOMAMONJY***<br>*TODO*<br>[TIS](http://www.onera.fr/fr/dsg/tis)/[DCSD](http://www.onera.fr/dcsd)/PSEV | ![blank_100px](/img/banners/blank_100px.jpg) | |
+
+![blank_50px](/img/banners/blank_50px.jpg)
 
