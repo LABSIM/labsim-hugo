@@ -25,7 +25,7 @@ Our team is a composition of different scientific fields :
 
 ---
 
-## Neuroergonomics & Human-System Integration
+## Neuroergonomics & Human-System Interaction
 
 ---
 
