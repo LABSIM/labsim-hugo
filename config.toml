@@ -62,7 +62,7 @@ paginate = 10
 
 [[params.menu]]
     name = "Docs"
-    url  = "http://bfy.tw/A84o"
+    url  = "https://labsim.github.io/technical-doc/"
     weight = 1
 
 [[params.menu]]
@@ -111,7 +111,7 @@ paginate = 10
     icon = "fa fa-file-code-o"
     title = "How to ?"
     subtitle = "Contributors, collaborators, scientifics or simply curious. We're happy to share."
-    link_url = "#"
+    link_url = "https://labsim.github.io/technical-doc/"
     link_text = "Check LABSIM docs homepages"
 
 [params.clients]
