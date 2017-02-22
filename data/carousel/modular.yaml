@@ -2,7 +2,7 @@ weight: 3
 title: "modular"
 description: >
   <ul class="list-style-none">
-    <li>easilly recompose your simulation as your requirements evolve</li>
+    <li>easily recompose your simulation as your requirements evolve</li>
     <li>leaverage hardware aspect through SAAS (Simulation As A Service)</li>
     <li>fasten iteration loops</li>
   </ul>
