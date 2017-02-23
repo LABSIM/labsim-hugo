@@ -1,3 +1,6 @@
 [submodule "themes/hugo-universal-theme"]
 	path = themes/hugo-universal-theme
 	url = https://github.com/devcows/hugo-universal-theme.git
+[submodule "public"]
+	path = public
+	url = ssh://git@github.com/LABSIM/labsim.github.io.git
