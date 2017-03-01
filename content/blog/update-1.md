@@ -9,22 +9,28 @@ author = "nkinani"
 
 ## Open Beta. 
 
-Minors update :
+Update 1.
 
-1. added phd(s) to team mate board.
+---
 
-2. corrected some error...
+#### Minors update :
 
-3. added **alpha** [technical doc website](https://labsim.github.io/technical-doc/) + binding but it remains under heavy construction. *feedbacks are welcome.*
+* added phd(s) to team mate board.
 
-4. added **alpha** [personnal profile exemple](https://nkinani.github.io/profile/) on team board based on *[Academic Theme for HUGO](https://gcushen.github.io/hugo-academic-demo/)*. This second link is far more complete. *feedbacks are welcome.*
+* corrected some error...
 
-Next update :
+* added **alpha** [technical doc website](https://labsim.github.io/technical-doc/) + binding but it remains under heavy construction. *feedbacks are welcome.*
 
-1. finish & polish team mate board.
+* added **alpha** [personnal profile exemple](https://nkinani.github.io/profile/) on team board based on *[Academic Theme for HUGO](https://gcushen.github.io/hugo-academic-demo/)*. This second link is far more complete. *feedbacks are welcome.*
 
-2. add content to LABSIM technical documentation website.
+#### Next update :
 
-3. if personal profile convinced you & fit your needs, then i will write down a "HOW TO" procedure.
+* finish & polish team mate board.
 
-Cheers.
+* add content to LABSIM technical documentation website.
+
+* if personal profile convinced you & fit your needs, then i will write down a "HOW TO" procedure.
+
+* correct the other, yet undiscovered, error.
+
+<br>*Cheers.*

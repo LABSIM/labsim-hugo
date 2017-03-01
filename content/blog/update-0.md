@@ -9,26 +9,30 @@ author = "nkinani"
 
 ## Open Beta
 
-Minors update :
+Update 0.
 
-1. team now follow actual composition. *Maybe we should add phd affiliate ? Under a specific section ? or not ?*.
+---
 
-2. team mate now have a pretty face, a correct role & branch/department/unit classification.
+#### Minors update :
 
-3. corrected some error...
+* team now follow actual composition. *Maybe we should add phd affiliate ? Under a specific section ? or not ?*.
 
-4. add binding to disqus. It allow visitor to freely discuss around blog article.
+* team mate now have a pretty face, a correct role & branch/department/unit classification.
 
-Next update :
+* corrected some error...
 
-1. finalize team mate board (picture + role)
+* add binding to disqus. It allow visitor to freely discuss around blog article.
 
-1. add labsim API key for Google Maps binding. (**[Contact](https://labsim.github.io/contact/)** section bug)
+#### Next update :
+
+* finalize team mate board (picture + role)
+
+* add labsim API key for Google Maps binding. (**[Contact](https://labsim.github.io/contact/)** section bug)
  
-2. generated LABSIM technical doc site + binding.
+* generated LABSIM technical doc site + binding.
 
-3. personnal scienfic profile + procedure "HOW TO". Probably based on *[Academic Theme for HUGO](https://gcushen.github.io/hugo-academic-demo/)*.
+* personnal scienfic profile + procedure "HOW TO". Probably based on *[Academic Theme for HUGO](https://gcushen.github.io/hugo-academic-demo/)*.
 
-4. correct the other, yet undiscovered, error.
+* correct the other, yet undiscovered, error.
 
-Cheers
+<br>*Cheers.*

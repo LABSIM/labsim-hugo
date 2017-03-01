@@ -61,24 +61,29 @@ paginate = 10
     blog = "/blog/:year/:month/day/:filename/"
 
 [[params.menu]]
-    name = "Docs"
-    url  = "https://labsim.github.io/technical-doc/"
+    name = "About"
+    url  = "/about/"
     weight = 1
+
+[[params.menu]]
+    name = "Doc"
+    url  = "https://labsim.github.io/technical-doc/"
+    weight = 2
 
 [[params.menu]]
     name = "Team"
     url  = "/team/"
-    weight = 2
+    weight = 3
 
 [[params.menu]]
     name = "Blog"
     url  = "/blog/"
-    weight = 3
+    weight = 4
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
