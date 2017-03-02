@@ -66,18 +66,18 @@ paginate = 10
     weight = 1
 
 [[params.menu]]
-    name = "Doc"
-    url  = "https://labsim.github.io/technical-doc/"
-    weight = 2
-
-[[params.menu]]
     name = "Team"
     url  = "/team/"
-    weight = 3
+    weight = 2
 
 [[params.menu]]
     name = "Blog"
     url  = "/blog/"
+    weight = 3
+
+[[params.menu]]
+    name = "Doc"
+    url  = "https://labsim.github.io/technical-doc/"
     weight = 4
 
 [[params.menu]]
