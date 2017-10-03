@@ -1,4 +1,4 @@
 weight: 2
 name: "Model-based integration"
 icon: "fa fa-cube"
-description: "Our ecosystem allows a seamless expert model-based integration from various scientific domains with multiple langage connectors (C++, C, Matlab, ...)."
+description: "Our ecosystem allows a seamless expert model-based integration from various scientific domains with multiple langage connectors : C++11, C#, Python, Go, Java, Matlab/Simulink, ..."
