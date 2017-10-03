@@ -39,7 +39,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "labsim.onera@gmail.com"
 
-    about_us = "<p>LABSIM - ONERA. DTIS/PSEV.</p>"
+    about_us = "<p>LABSIM - ONERA.</p>"
     copyright = "Copyright (c) 2015 - 2016, ONERA; all rights reserved."
 
     # Format dates with Go's time formatting

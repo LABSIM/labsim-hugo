@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-~/Bureau/hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 # if using a theme, replace by `hugo -t <yourtheme>`
+/home/nkinani/Bureau/hugo_0.29_Linux-64bit/hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public/
