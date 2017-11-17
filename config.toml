@@ -66,13 +66,13 @@ paginate = 10
     weight = 1
 
 [[params.menu]]
-    name = "Member"
-    url  = "/member/"
+    name = "Members"
+    url  = "/members/"
     weight = 2
 
 [[params.menu]]
-    name = "User"
-    url  = "/user/"
+    name = "Users"
+    url  = "/users/"
     weight = 3
 
 [[params.menu]]

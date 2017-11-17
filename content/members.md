@@ -1,5 +1,5 @@
 +++
-title = "Member"
+title = "Members"
 +++
 
 ![blank_50px](/img/blank_50px.jpg)
