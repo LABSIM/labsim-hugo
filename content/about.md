@@ -6,7 +6,7 @@ title = "About"
 
 | | | | |
 | --- | --- | --- | --- |
-| ![blank_100px](/img/blank_100px.jpg) | ![logo_squared](/img/logo_square.png) | ![blank_50px](/img/blank_50px.jpg) | The **ONERA LABSIM** (LABoratoire de SIMulation), created mid-October 2010, was initially designed to support *human-system interaction in helicopter operations* research studies in order to reveal innovative interaction concepts, prototype & evaluate them in piloted simulation.  |
+| ![blank_100px](/img/blank_100px.jpg) | ![logo_squared](/img/logo_square.png) | ![blank_50px](/img/blank_50px.jpg) | The **ONERA LABSIM** (from French acronym : "**LAB**oratoire de **SIM**ulation"), created mid-October 2010, was initially designed to support ; human-system interaction in aeronautics, rotary-wings operations & systems research studies in order to reveal innovative interaction concepts, prototype & evaluate them in piloted simulation.  |
 
 ![blank_50px](/img/blank_50px.jpg)
 
@@ -51,11 +51,11 @@ Following the VR principles, the LABSIM capabilities can be dived as 3 categorie
 
 ---
 
-First of all, every facilities can all work simultaneously in shared scenarios trough the LABSIM software simulation ecosystem. Actually, we maintain three physical means :
+First of all, every facilities can all work simultaneously in shared scenarios trough the LABSIM Software Simulation Ecosystem. Actually, we maintain three physical means :
 
 ### 1. PYCSHEL - prototyping & conceptions of systems for helicopters
 
-TODO
+This bench stand for **P**rotot**Y**ping & **C**onception of **S**ystems for **HEL**icopter. It allows the researcher to design, prototype and test systems for Helicopters. It is composed of a CAVE for immersive display, four tactile-screen  for avionics and two seated cockpit : one with passive helicopeters sticks and another one with active side-sticks.
 
 | | | | |
 | --- | :---: | --- | :---: |
@@ -69,7 +69,7 @@ TODO
 
 ### 2. SCHEME - prototyping bench for innovative interfaces
 
-TODO
+This bench is composed of a cylindrical 180° immersive display & a single operator station. It is primary used to design/prototype new interaction means & study the subject behaviour & cognitive state through bio-physiological metric such as *eye-tracking, mo-cap, ECG, EMG, EEG & GSR...* Moreover, this bench is the LABSIM hybrid-reality bridge to real-world UAV.  
 
 | | | | |
 | --- | :---: | --- | :---: |
