@@ -17,7 +17,7 @@ Update 3.
 
 * Split of the **Team** section into [**Members**](https://labsim.github.io/members/) <-> [**Users**](https://labsim.github.io/users/) to enhance visibility & role of each participant inside the LABSIM structure.
  
-* Added ***a lot*** of content add content to [**LABSIM technical documentation website**](https://labsim.github.io/technical-doc/).
+* Added ***a lot*** of content to [**LABSIM technical documentation website**](https://labsim.github.io/technical-doc/).
 
 #### Next update :
 
